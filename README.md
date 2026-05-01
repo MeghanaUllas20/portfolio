@@ -53,7 +53,7 @@ Personal portfolio of **Meghana Ullas**, a B.Tech student in Artificial Intellig
 | | |
 |---|---|
 | 📧 Email | [meghss1236@gmail.com](mailto:meghss1236@gmail.com) |
-| 📱 Phone | +91 8088980245 |
+| 📱 Phone | +91 8088****** |
 | 📍 Location | Bangalore, Karnataka, India |
 
 ---
